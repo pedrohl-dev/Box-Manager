@@ -14,6 +14,9 @@ Um simples e eficiente sistema de gerenciamento de estoque desenvolvido com PHP,
 # Tecnologias utilizadas
 
 PHP → Backend e lógica do sistema
+
 MySQL → Banco de dados
+
 JavaScript → Interatividade
+
 CSS → Estilização e responsividade
