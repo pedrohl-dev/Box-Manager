@@ -1,6 +1,8 @@
 # Box-Manager
 
-Um simples e eficiente sistema de gerenciamento de estoque desenvolvido com PHP, CSS e JavaScript, totalmente responsivo e com uma interface intuitiva para facilitar o controle de produtos, com finalidade para lojas e empresas pequenas. 
+Um simples e eficiente sistema de gerenciamento de estoque desenvolvido com PHP, CSS e JavaScript, totalmente responsivo e com uma interface intuitiva para facilitar o controle de produtos, com finalidade para lojas e empresas pequenas.
+
+Projeto visual online aqui! https://box-manager.infinityfreeapp.com/index.php
 
 # Funcionalidades
 
